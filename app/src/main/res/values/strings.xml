@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Kamus Hewan</string>
+
+    <string-array name="binatang">
+        <item>Beruang</item>
+        <item>Harimau</item>
+        <item>Jerapah</item>
+        <item>Kangguru</item>
+        <item>Kelinci</item>
+        <item>Kuda</item>
+        <item>Platipus</item>
+        <item>Singa</item>
+        <item>Tupai</item>
+        <item>Gajah</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Beruang adalah hewan omnivora</item>
+        <item>Harimau adalah hewan karnivora</item>
+        <item>Jerapah adalah hewan herbivora</item>
+        <item>Kangguru adalah hewan herbivora</item>
+        <item>Kelinci adalah hewan herbivora</item>
+        <item>Kuda adalah hewan herbivora</item>
+        <item>Platipus adalah hewan herbivora</item>
+        <item>Singa adalah hewan herbivora</item>
+        <item>Tupai adalah hewan karnivora</item>
+        <item>Gajah adalah hewan herbivora</item>
+    </string-array>
+
+    <string-array name="penjelasan">
+        <item>Binatang berbulu besar ini termasuk hewan omnivora yang mengkonsumsi berbagai jenis
+            makanan. Diantaranya tumbuh tumbuhan dan daging yang berasal dari binatang kecil.
+            Beruang juga mengkonsumsi buah buahan, madu, serangga, burung, dan hewan kecil lainnya.
+        </item>
+        <item>Harimau adalah hewan pemakan daging atau yang biasa disebut karnivora. Harimau
+            adalah jenis kucing terbesar dari spesiesnya, bahkan lebih besar dari singa.
+        </item>
+        <item>Jerapah adalah contoh hewan herbivora spesies hewan tertinggi yang hidup di darat.
+            Leher jerapah sangat panjang menyesuaikan makanannya yang berupa daun - daunan dari
+            pohon besar.
+        </item>
+        <item>Kangguru adalah hewan mamalia yang memiliki kantung. Hewan ini termasuk hewan
+            khas di Australia. Kata kangguru diambil dari bahasa Aborigin gangguru.
+        </item>
+        <item>Kelinci adalah hewan mamalia yang dapat ditemukan di banyak bagian bumi. Kelinci
+            berkembang biak dengan cara beranak atau vivipar dan merupakan hewan herbivora.
+        </item>
+        <item>Kuda adalah contoh hewan herbivora. Kuda menjadi alat transportasi dan pengangkutan
+            pada masa silam. Hewan yang makanan nya berupa dedaunan dan rerumputan ini diperkirakan
+            telah diternakan manusia semenjak 6.500 tahun lalu
+        </item>
+        <item>Platipus adalah hewan semi-akuatik yang banyak ditemui di bagian timur benua Australia
+            Walaupun Platipus bertelur, namun ia tergolong ke dalam mamalia karena menyusui anaknya
+        </item>
+        <item>Singa adalah spesies hewan dari keluarga kucing. Singa adalah hewan karnivora. Singa
+            merupakan hewan yang hidup berkelompok. Biasanya terdiri dari seekor jantan dan betina.
+            Kelompok ini menjaga daerah kekuasaanya.
+        </item>
+        <item> Tupai termasuk salah satu spesies binatang omnivora yang memakan tumbuh-tumbuhan
+            seperti biji-bijian, jamur, buah, kulit kayu, dan lainnya. Makanan yang paling khas
+            dengan tupai, contohnya ialah biji kenari.
+        </item>
+        <item>Gajah adalah hewan mamalia dan hewan darat terbesar di dunia. Gajah merupakan hewan
+            herbivora. Gajah memiliki belalai dan dua gading. Gajah merupakan satu - satunya
+            mamalia yang tidak bisa melompat.
+        </item>
+    </string-array>
+</resources>
